@@ -155,3 +155,12 @@ select {
     text-decoration: none;
     color:cadetblue;
   }
+
+  .canvas-div {
+    text-align: center;
+  }
+
+  canvas {
+    border: 1px solid black;
+
+  }
